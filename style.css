@@ -11,6 +11,9 @@
     font-family: 'barlow';
     font-weight: 500;
   }
+.all{
+    width:1470px;
+}
 
   .content {
     background-color: #3ebfff;
