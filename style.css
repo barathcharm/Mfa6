@@ -26,6 +26,7 @@
     height: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
+      width:1470px;
   }
 
   #logo {
@@ -53,7 +54,7 @@
   }
 
   .content1-1 {
-    width: 100%;
+    width:1470px;
     height: 800px;
     background-image: url(images/desktop/image-header.jpg);
     background-size: cover;
